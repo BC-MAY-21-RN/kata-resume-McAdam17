@@ -15,25 +15,22 @@ sidebar:
   email: adanmotacruz17@gmail.com
   phone:  4427197294
   website: # No agregar http://
-  linkedin: brightcoders
+  linkedin: https://www.linkedin.com/in/adan-mota-cruz-b83b10185/
   github: https://github.com/McAdam17
-  gitlab: https://www.linkedin.com/in/adan-mota-cruz-b83b10185/
+  gitlab: 
   bitbucket:
   twitter: 
   stack-overflow: 18844310/mcadam17 # Number/Username, e.g. 123456/alandoe
-  codewars:
+  codewars: https://www.codewars.com/users/McAdam17
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Intermediate # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -50,39 +47,21 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I'm a software developer who loves to learn new things and have new challenges. I like to learn new technologies, but my favorite programing language is JavaScript, I also know Java and C#. I like teamwork, I think it is one of the most important things at the moment to create software, and communication as well. I'm a person with a lot of initiative, I don't wait until things happen, I prefer to make them to come to the reality.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Computer Systems Engineer
+    university: ITSOEH
+    time: 2016 Oct - 2020 Dic
     details: |
+      
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+  - degree: Programming Technician
+    university: CBTis 199
+    time: 2013 - 2016
     details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+      
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
