@@ -88,22 +88,7 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: C sharp
-      level: 60%
-      
-    - name: Javascript
-      level: 60%
-      
-    - name: Node
-      level: 60%
-    
-    - name: Express
-      level: 60%
-
-    - name: React
-      level: 40%
-     
-     - name: React NAtive
+    - name: Python
       level: 20%
 
 # NO MODIFICAR
