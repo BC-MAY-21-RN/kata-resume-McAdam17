@@ -9,18 +9,18 @@ sidebar:
   # Profile information
   name: Adan Mota Cruz # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
-  avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
+  avatar: perfil_100x100.jpeg # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: adanmotacruz17@gmail.com
+  phone:  4427197294
   website: # No agregar http://
   linkedin: brightcoders
-  github: brightcoders
-  gitlab:
+  github: https://github.com/McAdam17
+  gitlab: https://www.linkedin.com/in/adan-mota-cruz-b83b10185/
   bitbucket:
-  twitter: '@BrightCoders'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  twitter: 
+  stack-overflow: 18844310/mcadam17 # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
