@@ -88,23 +88,23 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: C#
+    - name: C sharp
       level: 60%
       
     - name: Javascript
-      level: 70%
+      level: 60%
       
     - name: Node
-      level: 70%
+      level: 60%
     
     - name: Express
       level: 60%
 
     - name: React
-      level: 50%
+      level: 40%
      
      - name: React NAtive
-      level: 10%
+      level: 20%
 
 # NO MODIFICAR
 footer: >
